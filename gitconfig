@@ -1,0 +1,9 @@
+[user]
+	name = coderarch
+	email = coderarch@gmail.com
+[push]
+	default = current
+[http]
+	postBuffer = 524288000
+	sslVerify = false
+	proxy = 127.0.0.1:8087
